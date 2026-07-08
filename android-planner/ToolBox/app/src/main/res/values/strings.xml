@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToolBox</string>
+    <string name="memo_widget_description">显示最近的备忘录</string>
+    <string name="checkin_widget_description">显示今日打卡任务和状态</string>
+</resources>
