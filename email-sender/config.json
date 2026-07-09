@@ -2,8 +2,8 @@
   "smtp_host": "smtp.qq.com",
   "smtp_port": 465,
   "smtp_ssl": true,
-  "username": "stdueg@qq.com",
+  "username": "***",
   "password": "ccrjrioegbodcjff",
-  "from_name": "stdueg",
-  "from_email": "stdueg@qq.com"
+  "from_name": "god",
+  "from_email": "goddamn@qq.com"
 }
